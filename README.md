@@ -1,8 +1,8 @@
 # california-housing-ml
-California Housing Price Prediction: End‑to‑End Machine Learning Project
-Author: Sadique Amin
-Degree: MSc Data Science & Analytics, Cardiff University
-Book Reference: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Ed.)
+California Housing Price Prediction: End‑to‑End Machine Learning Project  
+Author: Sadique Amin  
+Degree: MSc Data Science & Analytics, Cardiff University  
+Book Reference: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Ed.)  
 Project Type: Portfolio
 
 ## Project Overview
