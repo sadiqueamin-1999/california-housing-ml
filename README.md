@@ -6,8 +6,7 @@ Book Reference: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow 
 Project Type: Portfolio
 
 ## Project Overview
-This project builds an end‑to‑end machine learning pipeline to predict median house prices in California districts using the well‑known California Housing Dataset.  
-It follows a full ML workflow:
+This project builds an end‑to‑end machine learning pipeline to predict median house prices in California districts using the well‑known California Housing Dataset. It follows a full ML workflow:
 
 1. Data acquisition & loading
 2. Exploratory data analysis (EDA)
